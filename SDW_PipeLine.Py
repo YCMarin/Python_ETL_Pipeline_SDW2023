@@ -26,7 +26,7 @@ print(json.dumps(users, indent=2))
 
 ### Transformação
 ### Uso de openai_API
-"""openai_api_key = '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'
+"""openai_api_key = ''
 openai.api_key = openai_api_key
 
 def generate_ai_news(user):
